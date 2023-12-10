@@ -30,10 +30,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The company can strategically enhance bike availability by aligning with specific weather and environmental conditions:
+  	- During periods of elevated temperatures, there tends to be increased demand for bikes, possibly due to favorable weather conditions for outdoor activities
+  	- Focusing on maintaining a larger fleet during clear weather allows the company to cater to the surge in demand and capitalize on optimal riding conditions.
+  	- Lower windspeed is associated with more pleasant and comfortable biking experiences
+  	- Bike rentals see a decrease during holidays, indicating heightened demand on working days, especially from commuters choosing bikes for transportation
+  	- As there appears to be a yearly increase in demand, the company can strategically expand its bike inventory to capitalize on this growing demand.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
