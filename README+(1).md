@@ -22,8 +22,8 @@
 ## General Information
 - The primary objective of this assignment is to understand the factors on which the demand for these shared bikes depends. Specifically, want to understand the factors affecting the demand for these shared bikes in the American market. 
 - To achieve this,
-	  Which variables are significant in predicting the demand for shared bikes.
-	  How well those variables describe the bike demands
+	 - Which variables are significant in predicting the demand for shared bikes.
+	 - How well those variables describe the bike demands
 - We have been given a dataset that includes comprehensive information about weather, dates, seasons etc which helps in determining demand for shared bikes 
 - Additionally, a data dictionary has been provided, offering descriptions and explanations for the attributes or variables present in the dataset.
 
