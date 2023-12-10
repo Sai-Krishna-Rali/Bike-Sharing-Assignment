@@ -20,10 +20,12 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The primary objective of this assignment is to understand the factors on which the demand for these shared bikes depends. Specifically, want to understand the factors affecting the demand for these shared bikes in the American market. 
+- To achieve this,
+	  Which variables are significant in predicting the demand for shared bikes.
+	  How well those variables describe the bike demands
+- We have been given a dataset that includes comprehensive information about weather, dates, seasons etc which helps in determining demand for shared bikes 
+- Additionally, a data dictionary has been provided, offering descriptions and explanations for the attributes or variables present in the dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
