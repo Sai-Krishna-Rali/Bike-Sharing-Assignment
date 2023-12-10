@@ -8,10 +8,14 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Reading and Understanding of data
+* Exploratory Data Analysis
+* Data Preparation
+* Model Building
+* Residual Analysis
+* Make predictions
+* Model Evaluation
+* Linear Regression Equation Interpretation
 
 <!-- You can include any other section that is pertinent to your problem -->
 
