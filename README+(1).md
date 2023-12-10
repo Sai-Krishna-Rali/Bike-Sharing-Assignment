@@ -4,7 +4,7 @@
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-Our task involves creating a model that predicts the demand for shared bikes based on the available independent variables. This model will serve as a valuable tool for the management, offering insights into how demand fluctuates with various features. The information derived can guide strategic decisions, enabling the management to align business strategies with demand levels and meet customer expectations effectively. Additionally, the model will provide valuable insights into the demand dynamics of a new market, offering a comprehensive understanding for strategic planning.
+> Our task involves creating a model that predicts the demand for shared bikes based on the available independent variables. This model will serve as a valuable tool for the management, offering insights into how demand fluctuates with various features. The information derived can guide strategic decisions, enabling the management to align business strategies with demand levels and meet customer expectations effectively. Additionally, the model will provide valuable insights into the demand dynamics of a new market, offering a comprehensive understanding for strategic planning.
 
 
 ## Table of Contents
